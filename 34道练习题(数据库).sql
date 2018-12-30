@@ -1,3 +1,6 @@
+密码 rootroot
+use dogs；
+
 mysql> show tables;
 +----------------+
 | Tables_in_dogs |
